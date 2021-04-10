@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Images!</title>
+
+    <style>
+      #img1{
+        width: 400px;
+        height: 300px;
+      }
+    </style>
+
+  </head>
+
+  <body>
+
+    <h1 style="text-align:center"><b>Beautiful places of India</b></h1>
+
+    <table style="text-align:center;font-size:20px;margin-left:auto;margin-right:auto">
+      <tr>
+        <td>
+          <img id="img1" src="http://cdn.cnn.com/cnnnext/dam/assets/170117153006-beautiful-india-lotus-temple-104557825.jpg" alt="Lotus">
+          <p>Lotus</p>
+        </td>
+        <td>
+          <img id="img1" src="https://www.jetsetter.com/wp-content/uploads/sites/7/2018/04/y7lEy9T7-1380x1035.jpeg" alt="Tajmahal">
+          <p>Tajmahal</p>
+        </td>
+        <td>
+          <img id="img1" src="https://static-blog.treebo.com/blog/wp-content/uploads/2018/06/manali.jpg" alt="Kullumanali">
+          <p>Kullumanali</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img id="img1" src="https://static-blog.treebo.com/blog/wp-content/uploads/2018/06/Khajuraho.jpg" alt="Temples">
+          <p>Temples</p>
+        </td>
+        <td>
+          <img id="img1" src="https://www.planetware.com/photos-large/IND/india-top-attractions-varanasi.jpg" alt="Varansi">
+          <p>Varanasi</p>
+        </td>
+        <td>
+          <img id="img1" src="https://assets.traveltriangle.com/blog/wp-content/uploads/2015/07/Blue-waters-of-Andaman-and-Nicobar-Islands.jpg" alt="Port Blair">
+          <p>Port Blair</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img id="img1" src="http://www.indiadrivertours.com/wp-content/uploads/2017/06/tpkg-khajurahotour.jpg" alt="khajuraho">
+          <p>Khajuraho</p>
+        </td>
+        <td>
+          <img id="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRItIAcITQzVesFUQrwT9hyPyunhHkYQlOq4eSAdeFtvoBf5nYS7mr9ezO9kGAPbLJfWo&usqp=CAU" alt="Hongenikal falls ">
+          <p>Hogeniakl Falls</p>
+        </td>
+        <td>
+          <img id="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZumameyOaz6inFPUH5dW45EigcpKs8IqROQ&usqp=CAU" alt="Kerala">
+          <p>Kerala</p>
+        </td>
+      </tr>
+    </table>
+
+    </body>
+</html>
